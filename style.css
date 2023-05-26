@@ -16,7 +16,7 @@ h1 {
     color: white;
 }
 
-div#bruna {
+div#maria {
     background-image: url(imagens/amor.jpeg);
     background-position: center center;
     background-size: contain;
@@ -33,7 +33,7 @@ div#bruna {
     transition: transform 0.3s ease;
 }
 
-div#bruna:hover {
+div#maria:hover {
     transform: translate(-50%, -60%);
 }
 
