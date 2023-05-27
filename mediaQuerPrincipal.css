@@ -4,7 +4,7 @@
         font-family: Arial, Helvetica, sans-serif
     }
     div#imagem {
-        background-image: url(imagens/nos.jpeg);
+        background-image: url(imagens/nos.jpg);
         background-size: cover;
         background-position: center center;
         width: 99%;
