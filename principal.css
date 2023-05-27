@@ -137,7 +137,7 @@ p#novamente {
     color: white;
     font-size: 1.2em;
     position: absolute;
-        top: 10%;
+        top: 80%;
         left: 50%;
         transform: translate( -92%, -50%);
 }
@@ -145,14 +145,14 @@ p#novamente {
 
 ul#sp {
     position: absolute;
-    top: 10%;
+    top: 90%;
     left: 50%;
     transform: translate(-50%, -50%);
     display: flex;
 }
 
 ul#sp img {
-    width: 150px;
+    width: 155px;
     margin: 10px;
     border-radius: 2px;
     box-shadow: 1px 1px 1px rgba(255, 255, 255, 0.136);
