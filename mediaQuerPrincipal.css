@@ -4,7 +4,7 @@
         font-family: Arial, Helvetica, sans-serif
     }
     div#imagem {
-        background-image: url(imagens/nos.jpg);
+        background-image: url(imagens/nos.jpeg);
         background-size: cover;
         background-position: center center;
         width: 99%;
@@ -48,7 +48,7 @@
         color: white;
         font-size: 1.1em;
         position: absolute;
-        top: 50%;
+        top: 10%;
         left: 50%;
         transform: translate( -158%, 1600%);
     }
@@ -76,7 +76,7 @@
         font-family: Arial, Helvetica, sans-serif
     }
     div#imagem {
-        background-image: url(imagens/nos.jpg);
+        background-image: url(imagens/nos.jpeg);
         background-size: cover;
         background-position: center center;
         width: 99%;
