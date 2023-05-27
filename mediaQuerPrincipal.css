@@ -9,8 +9,8 @@
         background-position: center center;
         width: 99%;
         height: 400px;
-        border-radius: 5px;
-        box-shadow: 1px 1px 8px rgba(146, 146, 146, 0.274);
+        border-radius: 2px;
+        box-shadow: 1px 1px 4px rgba(146, 146, 146, 0.274);
     }
     h5#navegar {
         color: white;
@@ -30,7 +30,7 @@
     }
     ul#tp {
         position: absolute;
-        top: 60%;
+        top: 90%;
         left: 50%;
         transform: translate(-50%,);
         display: flex;
@@ -54,7 +54,7 @@
     }
     ul#sp {
         position: absolute;
-        top: 120%;
+        top: 130%;
         left: 50%;
         transform: translate(-50%,);
         display: flex;
@@ -76,7 +76,7 @@
         font-family: Arial, Helvetica, sans-serif
     }
     div#imagem {
-        background-image: url(imagens/nos.jpeg);
+        background-image: url(imagens/nos.jpg);
         background-size: cover;
         background-position: center center;
         width: 99%;
@@ -177,7 +177,7 @@ p#alta {
 }
 ul#tp {
     position: absolute;
-    top: 75%;
+    top: 95%;
     left: 50%;
     transform: translate(-50%,);
     display: flex;
