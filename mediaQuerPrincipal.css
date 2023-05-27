@@ -9,7 +9,7 @@
         background-position: center center;
         width: 99%;
         height: 400px;
-        border-radius: 2px;
+        border-radius: 5px;
         box-shadow: 1px 1px 4px rgba(146, 146, 146, 0.274);
     }
     h5#navegar {
@@ -30,7 +30,7 @@
     }
     ul#tp {
         position: absolute;
-        top: 90%;
+        top: 60%;
         left: 50%;
         transform: translate(-50%,);
         display: flex;
@@ -54,7 +54,7 @@
     }
     ul#sp {
         position: absolute;
-        top: 130%;
+        top: 120%;
         left: 50%;
         transform: translate(-50%,);
         display: flex;
@@ -177,7 +177,7 @@ p#alta {
 }
 ul#tp {
     position: absolute;
-    top: 95%;
+    top: 75%;
     left: 50%;
     transform: translate(-50%,);
     display: flex;
