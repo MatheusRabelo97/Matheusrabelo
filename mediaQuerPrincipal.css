@@ -10,7 +10,7 @@
         width: 99%;
         height: 400px;
         border-radius: 5px;
-        box-shadow: 1px 1px 4px rgba(146, 146, 146, 0.274);
+        box-shadow: 1px 1px 8px rgba(146, 146, 146, 0.274);
     }
     h5#navegar {
         color: white;
@@ -48,7 +48,7 @@
         color: white;
         font-size: 1.1em;
         position: absolute;
-        top: 10%;
+        top: 50%;
         left: 50%;
         transform: translate( -158%, 1600%);
     }
